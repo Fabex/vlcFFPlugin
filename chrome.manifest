@@ -1,0 +1,3 @@
+content	vlcFFPlugin	content/
+overlay	chrome://browser/content/browser.xul	chrome://vlcFFPlugin/content/overlay.xul
+skin	vlcFFPlugin	classic/1.0	skin/
